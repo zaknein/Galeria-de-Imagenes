@@ -17,3 +17,12 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+a {
+    text-decoration:none;
+}
+a:visited {
+    color:black;
+}
+a:active{
+    color:blue;
+}
