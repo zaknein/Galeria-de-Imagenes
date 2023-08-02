@@ -16,4 +16,8 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
-}
+    width: 100px; 
+    height: 50px; 
+    font-size: 20px;
+} 
+
