@@ -24,6 +24,7 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+<<<<<<< HEAD
 }
 a {
     text-decoration:none;
@@ -53,3 +54,10 @@ p {
     font-size: 30px;
     text-align: center;
 }
+=======
+    width: 100px; 
+    height: 50px; 
+    font-size: 20px;
+} 
+
+>>>>>>> origin/brunomoreira-
