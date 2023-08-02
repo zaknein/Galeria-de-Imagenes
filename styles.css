@@ -20,7 +20,6 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
-<<<<<<< HEAD
 a {
     text-decoration:none;
 }
@@ -29,7 +28,7 @@ a:visited {
 }
 a:active{
     color:blue;
-=======
+}
 
 h1 {
     font-family: Georgia, serif;
@@ -47,5 +46,4 @@ p {
     font-family: system-ui;;
     font-size: 30px;
     text-align: center;
->>>>>>> Ivan-
 }
