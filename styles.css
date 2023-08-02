@@ -5,7 +5,9 @@ body {
 .image{
     border: 5px solid green;
     border-radius: 10px;
-    height: 400px;
+    height: 650px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 .link-button {
